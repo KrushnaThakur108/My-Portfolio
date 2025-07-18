@@ -1,0 +1,56 @@
+html{
+    background-color:powderblue;
+}
+
+
+*{
+    font: weight 1px;
+}
+
+
+h1,.heading2{
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin-bottom: -100px; /* reduce this number to make gap smaller */
+}
+
+.heading2{
+  white-space: nowrap; /* Prevents line breaks */
+}
+
+.heading2{
+  margin-bottom: -100px;  /* reduce space below h2 */
+}
+
+h1{
+    color:blueviolet;
+}
+
+#red{
+    color:red;
+}
+
+#blue{
+    color:blue;
+}
+
+#orange{
+    color:orange;
+}
+
+#green{
+    color:green;
+}
+
+#yellow{
+    color:yellow;
+}
+
+
+*{
+    width: 200px;
+    height: 200px;
+}
