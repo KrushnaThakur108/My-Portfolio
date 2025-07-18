@@ -2,28 +2,21 @@ html{
     background-color:powderblue;
 }
 
-
-*{
-    font: weight 1px;
+.back-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(0, 91, 148);
+  color: white;
+  text-decoration:none;
+  border-radius: 10px;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
 }
 
-
-h1,.heading2{
-  margin: 0;
-  padding: 0;
+.back-button:hover {
+  background-color: #0056b3;
 }
 
-h1 {
-  margin-bottom: -100px; /* reduce this number to make gap smaller */
-}
-
-.heading2{
-  white-space: nowrap; /* Prevents line breaks */
-}
-
-.heading2{
-  margin-bottom: -100px;  /* reduce space below h2 */
-}
 
 h1{
     color:blueviolet;
@@ -50,7 +43,9 @@ h1{
 }
 
 
-*{
+img{
     width: 200px;
     height: 200px;
 }
+
+
