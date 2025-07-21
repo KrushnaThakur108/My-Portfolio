@@ -1,0 +1,57 @@
+html{
+    background-color: black;
+}
+
+.back-button{
+    color: black;
+    display: inline-block;
+    background-color: gainsboro;
+    padding: 10px;
+    border-radius: 10px ;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+    width: 80px;
+    height: 30px;
+    text-align: center;
+    font-size: larger;
+}
+
+
+h1{
+    color: gold;
+    background-color: black;
+    font-size:80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-weight: bold;
+    padding: 10px;
+    border: 10px solid black;
+}
+
+hr{
+    padding: 0px;
+    border: 2px solid white;
+    margin: 10px;
+}
+
+img{
+    padding: 10px 20px 10px 20px;
+    border: 10px solid rgb(255, 255, 255);
+    margin: 150px;
+}
+
+#poster1and2{
+    background-color: rgb(255, 221, 177);
+    padding: 0px;
+    border: 10px solid black;
+    margin: 0px 0px 0px 0px;
+}
+
+#poster3and4{
+    background-color: antiquewhite;
+    padding: 0px;
+    border: 10px solid black;
+    margin: 0px 0px 0px 0px;
+}
+
